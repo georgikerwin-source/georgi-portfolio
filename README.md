@@ -14,4 +14,4 @@ Past Work: Examples of my newsletter and graphic design projects.
 
 AI Usage
 
-I used ChatGPT as a supplementary resource while developing my website. AI helped me identify coding errors and organize some of the website. I manily used it when organizing my Nav bar. 
+I used ChatGPT as a supplementary resource while developing my website. AI helped me identify coding errors and organize some of the website. I mainly used it when organizing my Nav bar. 
